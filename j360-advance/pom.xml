@@ -16,7 +16,7 @@
         <tomcat.version>7.0.59</tomcat.version>
 
         <!-- web -->
-        <shiro.version>1.2.3</shiro.version>
+        <shiro.version>1.9.1</shiro.version>
         <cxf.version>2.7.13</cxf.version>
     </properties>
 
